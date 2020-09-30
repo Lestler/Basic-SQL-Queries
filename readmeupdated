@@ -1,0 +1,10 @@
+Basic-SQL-Queries
+This sql query will work on most of the servers.
+
+Creating a simple database using basic sql queries using CRUD [C(Create), R(Read), U(Update), D(Delete)] queries to create sql databases.
+
+We first create a table student using CREATE TABLE then we assign the coloumns student_id,name,Major,GPA with the proper datatypes such as INT, VARCHAR, DECIMAL.
+We assigned the student_id as a PRIMARYKEY.
+
+Then we insert values into the columns by using INSERT INTO <tablename> Values ( )
+We can also delete the table by using DROP TABLE query
